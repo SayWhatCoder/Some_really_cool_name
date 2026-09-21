@@ -6,5 +6,6 @@ yellow
 green
 blue
 purple
+violet
 
 this is my poem
