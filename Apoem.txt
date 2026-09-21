@@ -1,4 +1,4 @@
-Poem
+Poem and alicorn
 
 Red
 orange
@@ -6,7 +6,8 @@ yellow
 green
 blue
 purple
+alicorn
 indigo
 violet
 
-this is my poem
+this is my poem plus alicorn
